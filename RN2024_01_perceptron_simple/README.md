@@ -42,13 +42,16 @@ de datos en Python con Keras.
 
 ## Requisitos
     Python 3.11.9
-    Bibliotecas:
+    Librerías:
         numpy==1.23.5
         pandas==2.2.3
         matplotlib==3.9.2
         seaborn==0.13.2
         scikit-learn==1.5.2
         tensorflow==2.13.0
+    
+    Puedes instalar las dependencias ejecutando:
+        pip install -r requirements.txt
 
 ## Estructura del Proyecto
     ├── README.md           # Descripción general del proyecto
