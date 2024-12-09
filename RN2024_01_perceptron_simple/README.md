@@ -54,9 +54,9 @@ de datos en Python con Keras.
         pip install -r requirements.txt
 
 ## Estructura del Proyecto
-    ├── README.md           # Descripción general del proyecto
+    ├── README.md                    # Descripción general del proyecto
     ├── diabetes_mujeres_pimas.ipynb # Código fuente del proyecto en Jupyter Notebook
-    └── pima_diabetes.csv   # Datos de entrada (cargados en línea desde una URL)
+    └── pima_diabetes.csv            # Datos de entrada (cargados en línea desde una URL)
 
 ## Resultados
 
