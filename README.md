@@ -17,4 +17,8 @@ Cada proyecto en este repositorio sigue una estructura similar, la cual incluye 
   
   El objetivo de este proyecto es construir un modelo de perceptrón simple (red neuronal de una sola neurona) para predecir la presencia de diabetes en mujeres Pima.
 
+- `RN2024_02_mi_primera_red_neuronal`
+
+  Este proyecto se basa en construir una primera red neuronal multicapa con la que poder clasificar los datos del conjunto MNIST.
+
 
